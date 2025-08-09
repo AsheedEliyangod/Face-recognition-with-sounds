@@ -62,9 +62,9 @@ Infinite patience for testing your own face
 ### Installation
 
 ```
-git [clone https://github.com/yourusername/face-the-music](https://github.com/AsheedEliyangod/Face-recognition-with-sounds)<br>
+git [clone https://github.com/yourusername/face-the-music](https://github.com/AsheedEliyangod/Face-recognition-with-sounds)
 cd face-the-music<br>
-Run Open index.html in your browser<br>
+Run Open index.html in your browser
 ```
 Allow webcam access<br>
 
