@@ -78,7 +78,7 @@ Watch chaos unfold<br>
 ✅ No actual purpose → ✅✅✅<br>
 
 ## Screenshots
-(Insert your own here)
+[](https://github.com/AsheedEliyangod/Face-recognition-with-sounds/tree/main/src)
 
 ## Demo Video
 (Insert your video link here)
