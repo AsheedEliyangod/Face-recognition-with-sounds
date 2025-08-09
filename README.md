@@ -81,7 +81,7 @@ Watch chaos unfold<br>
 [](https://github.com/AsheedEliyangod/Face-recognition-with-sounds/tree/main/src)
 
 ## Demo Video
-(Insert your video link here)
+[](https://github.com/AsheedEliyangod/Face-recognition-with-sounds/tree/main/src)
 
 ## Disclaimer
 No feelings were harmed in the making of this app. Only ears.<br>
