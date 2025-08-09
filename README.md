@@ -6,7 +6,7 @@
 #### The Tone-Deaf Coders
 
 ## Team Members
-Team Lead: Asheed Eliyangod — MAMO COLLEDE MANASSERY.
+Team Lead: Asheed Eliyangod — MAMO COLLEGE MANASSERY.
 
 ## Project Description
 Face the Music is a gloriously pointless web app that:
