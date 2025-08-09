@@ -1,9 +1,9 @@
-🎭 Face the Music 🎶
+# 🎭 Face the Music 🎶
 # Because every face deserves a theme song.
 
 ## Basic Details
 ## Team Name:
-The Tone-Deaf Coders
+#### The Tone-Deaf Coders
 
 ## Team Members
 Team Lead: Asheed Eliyangod — Maker of questionable projects since forever.
@@ -60,25 +60,23 @@ Infinite patience for testing your own face
 ## Implementation
 ### Installation
 
-bash
-Copy
-Edit
-git [clone https://github.com/yourusername/face-the-music](https://github.com/AsheedEliyangod/Face-recognition-with-sounds)
-cd face-the-music
-Run
+bash<br>
+Copy<br>
+Edit<br>
+git [clone https://github.com/yourusername/face-the-music](https://github.com/AsheedEliyangod/Face-recognition-with-sounds)<br>
+cd face-the-music<br>
+Run Open index.html in your browser<br>
 
-Open index.html in your browser
+Allow webcam access<br>
 
-Allow webcam access
-
-Watch chaos unfold
+Watch chaos unfold<br>
 
 ## Project Documentation
 ### Features:
-✅ Same face → same sound
-✅ Different face → different sound
-✅ Two people → awkward sound mashups
-✅ No actual purpose → ✅✅✅
+✅ Same face → same sound<br>
+✅ Different face → different sound<br>
+✅ Two people → awkward sound mashups<br>
+✅ No actual purpose → ✅✅✅<br>
 
 ## Screenshots
 (Insert your own here)
@@ -87,8 +85,8 @@ Watch chaos unfold
 (Insert your video link here)
 
 ## Disclaimer
-No feelings were harmed in the making of this app. Only ears.
-
+No feelings were harmed in the making of this app. Only ears.<br>
+<br>
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
