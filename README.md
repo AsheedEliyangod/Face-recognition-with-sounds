@@ -83,7 +83,7 @@ Watch chaos unfold<br>
 ![](./src/demo3.png)
 
 ## Demo Video
-![](./src/video.mkv)
+![video](./src/video.mkv)
 
 ## Disclaimer
 No feelings were harmed in the making of this app. Only ears.<br>
