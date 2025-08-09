@@ -63,7 +63,7 @@ Infinite patience for testing your own face
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/face-the-music
+git [clone https://github.com/yourusername/face-the-music](https://github.com/AsheedEliyangod/Face-recognition-with-sounds)
 cd face-the-music
 Run
 
