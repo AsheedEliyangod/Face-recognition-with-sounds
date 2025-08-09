@@ -78,10 +78,12 @@ Watch chaos unfold<br>
 ✅ No actual purpose → ✅✅✅<br>
 
 ## Screenshots
-[](https://github.com/AsheedEliyangod/Face-recognition-with-sounds/tree/main/src)
+![](./src/demo1.png)
+![](./src/demo2.png)
+![](./src/demo3.png)
 
 ## Demo Video
-[](https://github.com/AsheedEliyangod/Face-recognition-with-sounds/tree/main/src)
+[](./src/video.mp3)
 
 ## Disclaimer
 No feelings were harmed in the making of this app. Only ears.<br>
