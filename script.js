@@ -24,9 +24,9 @@ let currentAudio = null;
 let lastFaceDetectedTime = 0;
 
 async function loadModels() {
-  await faceapi.nets.tinyFaceDetector.loadFromUri('/models');
-  await faceapi.nets.faceRecognitionNet.loadFromUri('/models');
-  await faceapi.nets.faceLandmark68Net.loadFromUri('/models');
+  await faceapi.nets.tinyFaceDetector.loadFromUri('./models');
+  await faceapi.nets.faceRecognitionNet.loadFromUri('./models');
+  await faceapi.nets.faceLandmark68Net.loadFromUri('./models');
   startVideo();
 }
 
