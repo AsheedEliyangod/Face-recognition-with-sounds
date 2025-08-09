@@ -57,17 +57,15 @@ A computer with speakers or headphones
 
 Infinite patience for testing your own face
 ## RUN
-[(https://asheedeliyangod.github.io/Face-recognition-with-sounds/)]
+[live](https://asheedeliyangod.github.io/Face-recognition-with-sounds/)
 ## Implementation
 ### Installation
 
-bash<br>
-Copy<br>
-Edit<br>
+```
 git [clone https://github.com/yourusername/face-the-music](https://github.com/AsheedEliyangod/Face-recognition-with-sounds)<br>
 cd face-the-music<br>
 Run Open index.html in your browser<br>
-
+```
 Allow webcam access<br>
 
 Watch chaos unfold<br>
